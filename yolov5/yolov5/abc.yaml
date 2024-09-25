@@ -1,0 +1,11 @@
+path: D:/pyton_temel/dataset  # dataset root dir
+train: images/train  
+val: images/valid  # val images (relative to 'path') 128 images
+test: 
+
+
+
+names:
+  0: butterfly
+  1: spider
+  2: bee
